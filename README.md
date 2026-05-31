@@ -27,7 +27,7 @@ Compare the performance of multiple machine learning algorithms for food nutriti
 Evaluate the impact of data balancing and model optimization techniques.
 Identify the best-performing model for detecting balanced and unbalanced nutritional content.
 
-## Machine Learning Models
+# Machine Learning Models
 K-Nearest Neighbor (KNN)
 Decision Tree
 Random Forest
@@ -39,7 +39,7 @@ Gradient Boosting
 CatBoost
 XGBoost
 
-## Methodology
+# Methodology
 Data Preprocessing
 Feature Standardization (StandardScaler)
 Class Imbalance Handling using SMOTE
@@ -55,7 +55,7 @@ Balanced Accuracy
 Generalization Analysis (Overfitting Detection)
 Results
 
-## Best Model
+# Best Model
 The best model obtained in this study was:
 | Model | Technique | Data Split | Balanced Accuracy |
 |---------|---------|---------|---------|
@@ -65,7 +65,7 @@ The best-performing model in this project was **Logistic Regression with SMOTE**
 
 The results indicate that machine learning models can effectively support nutritional assessment and food classification tasks, achieving high predictive performance while maintaining good generalization ability.
 
-## Technologies
+# Technologies
 Python
 Pandas
 NumPy
