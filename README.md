@@ -3,6 +3,7 @@
 Project UAS : Perbandingan 10 model klasifikasi dengan SMOTE, Hypertuning Parameter dan Threshold Prediction
 
 **Abstrak**
+
 Project bertujuan untuk mengklasifikasikan makanan ke dalam kategori nutrisi seimbang dan nutrisi tidak seimbang berdasarkan kandungan gizi seperti energi, protein, karbohidrat, lemak, serat, gula, dan sodium. Penelitian membandingkan berbagai algoritma machine learning, yaitu KNN, Decision Tree, Random Forest, Bagging, Logistic Regression, Naive Bayes, AdaBoost, Gradient Boosting, CatBoost, dan XGBoost. Proses analisis mencakup preprocessing data, standarisasi fitur, penanganan ketidakseimbangan kelas menggunakan SMOTE, hyperparameter tuning, threshold prediction, evaluasi menggunakan confusion matrix dan balanced accuracy, serta analisis kemampuan generalisasi model. Hasil penelitian menunjukkan bahwa Logistic Regression dengan SMOTE memberikan performa terbaik dengan balanced accuracy sebesar 98,5% pada skenario split data 80:20.
 
 **Keywords**: Machine Learning, Food Nutrition Classification, Balanced Nutrition, SMOTE, Hyperparameter Tuning, Logistic Regression, Balanced Accuracy.
